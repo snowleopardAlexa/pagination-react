@@ -32,7 +32,8 @@
   margin: 8px;
   border-radius: 5px;
   border: 1px solid #2b2eff;
-  color: #2b2eff;
+  background-color: red;
+  color: white;
   cursor: pointer;
 }
 
